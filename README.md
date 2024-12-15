@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Parauha</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning,fine tuning LLMs**
+- 🌱 I’m currently learning **Machine Learning / AI, Adtech**
 
-- 💬 Ask me about **Web Development,Quantitative Finance and ML**
+- 💬 Ask me about **Adtech,Quantitative Finance and ML**
 
 - 📫 How to reach me **parohaabhishek360@gmail.com**
 
