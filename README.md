@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Parauha</h1>
-<h3 align="center">A passionate Product Analyst from India</h3>
+<h3 align="center">A passionate Tech and Product geek from India</h3>
 
 - 🌱 I’m currently learning **Machine Learning / AI, AdTech**
 
